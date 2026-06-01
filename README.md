@@ -1,0 +1,2 @@
+# REAL-TIME-DISASTER-MONITORING-AND-ALERT-SYSTEM-USING-IOT-AND-ML-
+A real-time disaster monitoring system integrating IoT sensors and ML algorithms to detect environmental anomalies such as floods, earthquakes, and gas leaks. Sensor data is processed through trained ML models for instant disaster prediction, triggering automated multi-channel alerts via SMS and email to minimize response time and casualties.
